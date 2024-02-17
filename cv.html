@@ -56,7 +56,7 @@ layout: null
           <p>
             <a href="{{ site.baseurl }}">
               <i class="fas fa-home"></i>
-              tumblr
+              art work
             </a>
           </p>
           <!-- <p>
@@ -97,12 +97,12 @@ layout: null
 
         <br />
         <h2>Experience</h2>
-
         {% for job in site.data.experience %}
         <div class="columns">
           <div class="column is-three-fifths">
             <b>{{ job.company }}</b><br />
             {{ job.description }}
+            {{ job.topic }}
           </div>
           <div class="column is-two-fifths has-text-right">
             {{ job.dates }}
@@ -152,11 +152,11 @@ layout: null
         {% for project in site.data.projects %}
         <div class="columns">
           <div class="column is-three-fifths">
-            <b>{{ project.name }}</b>
-            <br />
-            <b>{{ project.support }}</b>
+            <b>{{ project.name }} ({{ project.support }})</b>
             <br />
             {{ project.role }}
+            <b>{{ project.description }}</b>
+            <br />
           </div>
           <div class="column is-two-fifths has-text-right">
             {{ project.date }}
