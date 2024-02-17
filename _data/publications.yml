@@ -1,7 +1,7 @@
 - id: nerffacespeech
   title: "NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior"
   venue: In submission
-  description: "A method for generating audio-driven 3D aware talking head from a single image using generative prior and ray deformation technique."
+  description: "Generating audio-driven 3D aware talking head from a single image using generative prior and ray deformation technique."
   image: nerffacespeech.png
   authors:
     - Gihoon
@@ -9,23 +9,10 @@
     - Kwanggyoon
     - Junyong
     
-- id: localpatch
-  title: "Deep Learning-Based Facial Retargeting Using Local Patches"
-  venue: In submission
-  description: "A method for retargeting facial expression from a source human performance video to a target stylized 3D character using local patches."
-  image: localpatch.png
-  authors:
-    - Inyup
-    - Yeonsoo
-    - Sihun
-    - Seonghyeon
-    - Sunjin
-    - Junyong
-    
 - id: lego
   title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
   venue: In submission
-  description: "A method for creating an animatable stylized 3D face mesh with one example pair."
+  description: "Creating an animatable stylized 3D face mesh with one example pair."
   image: lego.png
   authors:
     - Soyeon
@@ -35,11 +22,24 @@
     - Jungeun
     - Junyong
     
+- id: localpatch
+  title: "Deep Learning-Based Facial Retargeting Using Local Patches"
+  venue: In submission
+  description: "Retargeting facial expression from a source human performance video to a target stylized 3D character using local patches."
+  image: localpatch.png
+  authors:
+    - Inyup
+    - Yeonsoo
+    - Sihun
+    - Seonghyeon
+    - Sunjin
+    - Junyong
+    
 - id: Sample-Refine
   title: "Generating Texture for 3D Human Avatar from a Single Image using Sampling and Refinement Networks"
   venue: Eurographics 2023
   journal: Computer Graphics Forum (CGF)
-  description: "A method for generating 3D human texture from a single image using sampling and refinement process by utilizing geometry information."
+  description: "Generating 3D human texture from a single image using sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine/"
   paper: "https://diglib.eg.org/handle/10.1111/cgf14769"
   github: "chacorp/SampleRefine"
