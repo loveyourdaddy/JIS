@@ -32,6 +32,7 @@
 
     .publication-venue {
         color: #666;
+        font-size: 80%;
         width: fit-content;
         margin-top: 0;
     }
@@ -51,10 +52,10 @@
     }
 
     .publication-authors {
+        font-size: 90% !important;
         .author-me {
             color: #000;
             font-weight: 600;
-            font-size: 80% !important;
         }
 
         a {
@@ -127,6 +128,7 @@
     .project-description {
         color: #666;
         width: fit-content;
+        font-size: 80% !important;
         margin-top: 0;
     }
 }
