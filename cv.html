@@ -100,8 +100,10 @@ layout: null
         {% for job in site.data.experience %}
         <div class="columns">
           <div class="column is-three-fifths">
-            <b>{{ job.company }}</b><br />
+            <b>{{ job.company }}</b>
+            <br />
             {{ job.description }}
+            <br />
             {{ job.topic }}
           </div>
           <div class="column is-two-fifths has-text-right">
