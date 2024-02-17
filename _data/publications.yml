@@ -37,7 +37,8 @@
     
 - id: Sample-Refine
   title: "Generating Texture for 3D Human Avatar from a Single Image using Sampling and Refinement Networks"
-  venue: Eurographics 2023, Computer Graphics Forum (CGF)
+  venue: Eurographics 2023
+  journal: Computer Graphics Forum (CGF)
   description: "A method for generating 3D human texture from a single image using sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine/"
   paper: "https://diglib.eg.org/handle/10.1111/cgf14769"
@@ -52,8 +53,9 @@
 
 - id: Ref2Sketch
   title: "Reference Based Sketch Extraction via Attention Mechanism"
-  venue: SIGGRAPH Asia 2022, ACM Transactions on Graphics (TOG)
-  description: "A model that extracts a sketch from a colorized image in such a way that the extracted sketch has a line style similar to a given reference sketch while preserving the visual content identically to the colorized image."
+  venue: SIGGRAPH Asia 2022
+  journal: ACM Transactions on Graphics (TOG)
+  description: "Extracting a sketch from an image in the style of a given reference sketch while preserving the visual content of the image."
   paper: "https://dl.acm.org/doi/abs/10.1145/3550454.3555504"
   github: ref2sketch/ref2sketch
   image: ref2sketch.jpg
@@ -66,7 +68,7 @@
 
 - id: Samp-Ref
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement"
-  venue: SIGGRAPH 2022, ACM SIGGRAPH 2022 Posters
+  venue: SIGGRAPH 2022 Posters
   description: "A method for generating 3D human texture from a single image based on SMPL model, using sampling and refinement process."
   paper: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
   github: "chacorp/SampleRefine"

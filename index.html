@@ -170,7 +170,12 @@ layout: null
             </div>
 
             <div class="publication-venue">
+              {% if publication.journal %}
+              <span>{{ publication.venue }}, {{ publication.journal }}</span>
+              {% else %}
               <span>{{ publication.venue }}</span>
+              {% endif %}
+
               {% for award in publication.awards %}
                 <span class="publication-venue-emph">{{ award }}<span>
               {% endfor %}
