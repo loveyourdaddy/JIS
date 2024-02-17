@@ -44,7 +44,7 @@ layout: null
           <div class="portrait">
             <!-- <img src="./images/sihuncha.jpg" > -->
             <a href="./images/sihuncha.jpg">
-              <img style="width:80%;max-width:80%" alt="profile photo" src="./images/sihuncha.jpg" class="hoverZoomLink">
+              <img style="width:70%;max-width:70%" alt="profile photo" src="./images/sihuncha.jpg">
             </a>
           </div>
         </div>
@@ -55,14 +55,13 @@ layout: null
             </h1>
             <div class="content has-text-justified">
               {{ site.description | markdownify }}
-
               <div class="buttons">
                 
-                <!-- <a class="external-link button is-normal is-rounded is-dark" 
+                <a class="external-link button is-normal is-rounded is-dark" 
                   href="mailto:{{ site.email }}">
                   <span class="icon"><i class="fas fa-envelope"></i></span>
                   <span>Email</span>
-                </a> -->
+                </a>
 
                 <a class="external-link button is-normal is-rounded is-dark" 
                   href="cv.html">
@@ -229,7 +228,6 @@ layout: null
           </div>
         </div>
 
-
         <div class="column">
           <div class="content">
             <h3 class="publication-title">
@@ -237,15 +235,14 @@ layout: null
             </h3>
 
             <div class="project-description">
-              <span>{{ project.role }}</span>
-            </div>
-            
-            <div class="project-description">
               <span>{{ project.date }}</span>
             </div>
 
-            <p class="project-description">{{ project.description }}</p>
+            <div class="project-description">
+              <span>as a {{ project.role }}</span>
+            </div>
 
+            <p class="project-description">{{ project.description }}</p>
 
           </div>
         </div>

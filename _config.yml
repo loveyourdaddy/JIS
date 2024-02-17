@@ -30,8 +30,6 @@ description: >-
   'How can I intuitively create and manipulate 3D content?' is my overall question. My current research interest lies on generating and animating digital avatar.
 
 
-  Email: chacorp@kaist.ac.kr
-
 baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
 url: "https://chacorp.github.io/sihuncha/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
