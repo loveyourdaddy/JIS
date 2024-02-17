@@ -16,7 +16,7 @@
 }
 
 .footer .footer-links a {
-    font-size: 20px;
+    font-size: 18px;
     color: #000;
 }
 
@@ -31,7 +31,7 @@
     }
 
     .publication-venue {
-        color: #555;
+        color: #666;
         width: fit-content;
         margin-top: 0;
     }
@@ -67,13 +67,13 @@
 
     .publication-image {
         border-radius: 2%;
-        width: 140%;
-        height: 140%;
+        width: 100%;
+        height: 100%;
         overflow: hidden;
         font-size: 0;
 
         img {
-            width: 150%;
+            width: 100%;
         }
     }
 
@@ -94,7 +94,7 @@
     }
 
     .publication-description {
-        color: #333;
+        color: #666;
         margin: 0.5em 0;
     }
 
