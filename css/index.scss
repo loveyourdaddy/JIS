@@ -103,6 +103,14 @@
         margin-top: 0.15em !important;
     }
     
+    .project-title {
+        width: fit-content;
+        margin: 0 !important;
+        font-weight: 700;
+        font-size: 100% !important;
+
+        a { color: #000 }
+    }
     .project-image {
         border-radius: 2%;
         width: 100%;
@@ -113,5 +121,10 @@
         img {
             width: 100%;
         }
+    }    
+    .project-description {
+        color: #666;
+        width: fit-content;
+        margin-top: 0;
     }
 }
