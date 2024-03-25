@@ -21,9 +21,7 @@
     - Seonghyeon
     - Sunjin
     - Junyong
-  co:
-    - Inyup
-    - Yeonsoo
+  co: 2
   etc: "(*equal contribution)"
     
 - id: lego
@@ -41,9 +39,7 @@
     - Sihun
     - Jungeun
     - Junyong
-  co:
-    - Soyeon
-    - Kwan
+  co: 2
   etc: "(*equal contribution)"
     
 - id: Sample-Refine
@@ -100,10 +96,7 @@
     - Minki
     - YoungJun
     - Sihun
-  co:
-    - Minki
-    - YoungJun
-    - Sihun
+  co: 3
   etc: "(*equal contribution)"
 
 # - id: nerfies
