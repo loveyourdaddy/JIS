@@ -26,6 +26,9 @@
   title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
   venue: CVPR 2024 accepted
   description: "Creating an animatable stylized 3D face mesh with one example pair."
+  project_page: "https://kwanyun.github.io/lego/"
+  github: "https://github.com/kwanyun/LeGO_code"
+  arxiv: "2403.15227"
   image: lego.png
   authors:
     - Soyeon
@@ -40,8 +43,8 @@
   venue: Eurographics 2023
   journal: Computer Graphics Forum (CGF)
   description: "Generating 3D human texture from a single image using sampling and refinement process by utilizing geometry information."
-  project_page: "https://chacorp.github.io/sample-refine/"
   paper: "https://diglib.eg.org/handle/10.1111/cgf14769"
+  project_page: "https://chacorp.github.io/sample-refine/"
   github: "chacorp/SampleRefine"
   arxiv: "2305.00936"
   image: sample-refine.png
