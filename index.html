@@ -151,7 +151,8 @@ layout: null
                   
                   {% if publication.co %}
                     {% capture co_value %}{{ publication.co }}{% endcapture %}
-                    {{ co_value }}
+                    <!-- {{ co_value }} -->
+                    {{ forloop.counter0 }}
                     {% if forloop.counter0 < co_value %} * {% endif %}
                   {% endif %}
                   <!-- {% if publication.etc %}
