@@ -144,20 +144,14 @@ layout: null
             </h3>
 
             <div class="publication-authors">
+              {% assign co_value = publication.co | plus: 0 %}
               {% assign count = 0 %}
               {% for author_id in publication.authors %}
                 {% assign author = site.data.authors[author_id] %}
                 <span class="author-block {% if author.is_me %}author-me{% endif %}">
-                  <!-- {% if forloop.counter0 < publication.co %} * {% endif %} -->
-                  {% if publication.co %}
-                    {% capture co_value %}{{ publication.co }}{% endcapture %}
-                    {% if count < co_value %}*{% endif %}
-                    <!-- {{ forloop.counter0 }} -->
-                    <!-- {% if lo_value < co_value %} * {% endif %} -->
-                  {% endif %}
-                  <!-- {% if publication.etc %} * {% endif %} -->
+                  {% if count < co_value %}*{% endif %}
                   {% if author.is_me %}
-                    {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{% endif %}
+                    {{ author.first_name }} {{ author.middle_name }} {{ author.last_name }}{% if forloop.last == false %},{% endif %}
                   {% else %}
                     <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name }}</a>{% if forloop.last == false %},{% endif %}
                   {% endif %}
