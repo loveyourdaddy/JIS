@@ -24,6 +24,7 @@
   co:
     - Inyup
     - Yeonsoo
+  etc: "(*equal contribution)"
     
 - id: lego
   title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
@@ -43,6 +44,7 @@
   co:
     - Soyeon
     - Kwan
+  etc: "(*equal contribution)"
     
 - id: Sample-Refine
   title: "Generating Texture for 3D Human Avatar from a Single Image using Sampling and Refinement Networks"

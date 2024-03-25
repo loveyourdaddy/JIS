@@ -147,19 +147,15 @@ layout: null
               {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}
               <span class="author-block {% if author.is_me %}author-me{% endif %}">
-                {% if author.is_me %}
-                  {% if publication.etc %}
-                  *
-                  {% endif %}
-                {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
-                endif %}
-                {% else %}
-                  {% if publication.etc %}
-                  *
-                  {% endif %}
-                <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name
-                  }}</a>{% if forloop.last == false %},{% endif %}
+                {% if author_id in publication.co %}
+                *
                 {% endif %}
+                {% if author.is_me %}
+                  {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}
+                {% else %}
+                  <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name}}</a>
+                {% endif %}
+                {% if forloop.last == false %},{% endif %}
               </span>
               {% endfor %}
               
