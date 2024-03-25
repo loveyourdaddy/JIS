@@ -147,7 +147,10 @@ layout: null
               {% for author_id in publication.authors %}
                 {% assign author = site.data.authors[author_id] %}
                 <span class="author-block {% if author.is_me %}author-me{% endif %}">
-                  {% if forloop.counter0 < publication.co %} * {% endif %}
+                  <!-- {% if forloop.counter0 < publication.co %} * {% endif %} -->
+                  {% if publication.co %}
+                    {% if forloop.counter0 < publication.co %} * {% endif %}
+                  {% endif %}
                   <!-- {% if publication.etc %}
                   *
                   {% endif %} -->
