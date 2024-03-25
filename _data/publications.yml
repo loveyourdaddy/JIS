@@ -21,6 +21,9 @@
     - Seonghyeon
     - Sunjin
     - Junyong
+  co:
+    - Inyup
+    - Yeonsoo
     
 - id: lego
   title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
@@ -37,6 +40,9 @@
     - Sihun
     - Jungeun
     - Junyong
+  co:
+    - Soyeon
+    - Kwan
     
 - id: Sample-Refine
   title: "Generating Texture for 3D Human Avatar from a Single Image using Sampling and Refinement Networks"
@@ -89,6 +95,10 @@
   paper: "https://dl.acm.org/doi/abs/10.1145/3450337.3483509"
   image: anyway.png
   authors:
+    - Minki
+    - YoungJun
+    - Sihun
+  co:
     - Minki
     - YoungJun
     - Sihun
