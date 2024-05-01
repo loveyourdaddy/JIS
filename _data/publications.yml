@@ -29,7 +29,7 @@
   venue: CVPR 2024
   description: "Creating an animatable stylized 3D face mesh with one example pair."
   project_page: "https://kwanyun.github.io/lego/"
-  github: "https://github.com/kwanyun/LeGO_code"
+  github: "kwanyun/LeGO_code"
   arxiv: "2403.15227"
   image: lego.png
   authors:
