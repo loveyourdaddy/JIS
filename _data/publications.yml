@@ -16,7 +16,7 @@
 - id: nerffacespeech
   title: "NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior"
   venue: CVPRW 2024
-  description: "Generating audio-driven 3D aware talking head from a single image using generative prior and ray deformation technique."
+  description: "One-Shot Audio-driven 3D talking head generation with enhanced 3D consistency using NeRF and generative knowledge from single image input."
   project_page: "https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/"
   image: nerffacespeech.png
   authors:
