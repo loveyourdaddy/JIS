@@ -1,14 +1,3 @@
-- id: nerffacespeech
-  title: "NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior"
-  venue: Under review
-  description: "Generating audio-driven 3D aware talking head from a single image using generative prior and ray deformation technique."
-  image: nerffacespeech.png
-  authors:
-    - Gihoon
-    - Kwanggyoon
-    - Sihun
-    - Junyong
-    
 - id: localpatch
   title: "Deep Learning-Based Facial Retargeting Using Local Patches"
   venue: Under review
@@ -23,6 +12,18 @@
     - Junyong
   co: 2
   etc: "(*equal contribution)"
+  
+- id: nerffacespeech
+  title: "NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior"
+  venue: CVPRW 2024
+  description: "Generating audio-driven 3D aware talking head from a single image using generative prior and ray deformation technique."
+  project_page: "https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/"
+  image: nerffacespeech.png
+  authors:
+    - Gihoon
+    - Kwanggyoon
+    - Sihun
+    - Junyong
     
 - id: lego
   title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
