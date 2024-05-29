@@ -1,15 +1,30 @@
+- company: KAI Studio
+  description: >- 
+      Software Developer.
+  topic: Motion retargeting 
+  dates: "Mar 2024 - Present"
+  location: DaeJeon, Korea
+  
 - company: Visual Media Lab, KAIST
   description: >- 
-      Research Assistant.
-  topic: Worked on topics of texture generation, 3D facial animation.
-  dates: "Jan 2021 - Present"
+      Ph.D Student.
+  topic: Sketch-based motion editing, Motion retargeting 
+  dates: "Jan 2019 - Present"
   location: DaeJeon, Korea
-
-- company: Mandatory Military Service
+  
+  - company: Graphics Media Lab, SNU
   description: >- 
-      ROK Army sergeant, honorable discharge
-  dates: "June 2015 - Mar 2017"
-  location: Uljin, Korea
+      Master Student.
+  topic: Cloth simulation
+  dates: "Sep 2016 - Feb 2019"
+  location: Seoul, Korea
+
+  - company: Mixed-Signal Electronics Lab, Konkuk University
+  description: >- 
+      Undergraduate Intern.
+  topic: HDL, Verilog
+  dates: "Feb 2015 - MAr 2015"
+  location: Seoul, Korea
 
 # - company: Google
 #   description: Research Scientist
