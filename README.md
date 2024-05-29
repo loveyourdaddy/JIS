@@ -1,4 +1,4 @@
-# Sihun Cha /sihʌn cha/
+# Inseo Jang
 
 Template borrowed from [here](https://github.com/keunhong/keunhong.github.io)
 ```
