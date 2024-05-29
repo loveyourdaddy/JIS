@@ -1,68 +1,33 @@
 Sihun:
-  first_name: Sihun
-  last_name: Cha
-  website: https://chacorp.github.io/sihuncha/cv.html
+  first_name: Inseo
+  last_name: Jang
+  # website: https://chacorp.github.io/sihuncha/cv.html
   is_me: true
   
-Kwanggyoon:
-  first_name: Kwanggyoon
-  last_name: Seo
-  website: https://seokg.github.io/
-Seonghyeon:
-  first_name: Seonghyeon
+Soojin:
+  first_name: Soojin
+  last_name: Choi
+  
+Seokhyeon:
+  first_name: Seokhyeon
+  last_name: Hong
+  
+Chaelin:
+  first_name: Chaelin
   last_name: Kim
-  website: https://vml.kaist.ac.kr/main/people/person/139
+
 Junyong:
   first_name: Junyong
   last_name: Noh
   website: https://vml.kaist.ac.kr/main/people/person/1
-Amirsaman:
-  first_name: Amirsaman
-  last_name: Ashtari
-  website: https://vml.kaist.ac.kr/main/people/person/140
-Chang Wook:
-  first_name: Chang Wook
-  last_name: Seo
-  website: https://chanuku.github.io/cv_research/
-Cholmin:
-  first_name: Cholmin
-  last_name: Kang
-  website: https://vml.kaist.ac.kr/main/people/person/141
-Inyup:
-  first_name: Inyup
-  last_name: Lee
-  website: https://vml.kaist.ac.kr/main/people/person/185
-Yeonsoo:
-  first_name: Yeonsoo
-  last_name: Choi
-  website: https://vml.kaist.ac.kr/main/people/person/156
-Kwan:
-  first_name: Kwan
-  last_name: Yun
-  website: https://kwanyun.github.io/
-Soyeon:
-  first_name: Soyeon
-  last_name: Yoon
-  website: https://vml.kaist.ac.kr/main/people/person/177
-Jungeun:
-  first_name: Jung Eun
-  last_name: Yoo
-  website: https://vml.kaist.ac.kr/main/people/person/19/
-Sunjin:
-  first_name: Sunjin
-  last_name: Jung
-  website: https://vml.kaist.ac.kr/main/people/person/18/
-Gihoon:
-  first_name: Gihoon
-  last_name: Kim
-  website: https://vml.kaist.ac.kr/main/people/person/162
-
   
-YoungJun:
-  first_name: YoungJun
-  last_name: Choi
-  website: https://sites.google.com/view/youngjunchoi/main
-Minki:
-  first_name: Minki
-  last_name: Hong
-  website: 
+Sang-Bin :
+  first_name: Sang-Bin 
+  last_name: Lee
+  website: http://graphics.snu.ac.kr/~ko/
+
+Hyeong-Seok:
+  first_name: Hyeong-Seok
+  last_name: Ko
+  website: http://graphics.snu.ac.kr/~ko/
+
