@@ -16,6 +16,7 @@
   venue: KCGS 2018
   description: "Accelerating Cloth Simulation Speed for Symmetrical Motion."
   # project_page: "https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/"
+  paper: "https://drive.google.com/file/d/11vVcL1xIQH1uR2bKVoa03Memly8Evwqs/view?usp=drive_link"
   image: PatternMirroring.png
   authors:
     - Inseo
