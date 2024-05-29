@@ -1,47 +1,47 @@
-- name: "Peer to Peer"
-  location: >-
-    온수공간, Seoul
-  type: 단체전 (group exhibition)
-  dates: 2022
+# - name: "Peer to Peer"
+#   location: >-
+#     온수공간, Seoul
+#   type: 단체전 (group exhibition)
+#   dates: 2022
 
-- name: "Peer to Peer"
-  location: >-
-    토포하우스 (Topohaus), Seoul
-  type: 단체전 (group exhibition)
-  dates: 2021
+# - name: "Peer to Peer"
+#   location: >-
+#     토포하우스 (Topohaus), Seoul
+#   type: 단체전 (group exhibition)
+#   dates: 2021
 
-- name: "영구 보존을 위한 휘핑에 샷추가 (레귤러)"
-  location: >-
-    쇼앤텔 (show and tell), Seoul
-  type: 개인전 (solo exhibition)
-  dates: 2020
+# - name: "영구 보존을 위한 휘핑에 샷추가 (레귤러)"
+#   location: >-
+#     쇼앤텔 (show and tell), Seoul
+#   type: 개인전 (solo exhibition)
+#   dates: 2020
 
-- name: "Mass 2020"
-  location: >-
-    Czong Institute for Contemporary Art (CICA) Museum, Gimpo-si
-  type: 단체전 (group exhibition)
-  dates: 2020
+# - name: "Mass 2020"
+#   location: >-
+#     Czong Institute for Contemporary Art (CICA) Museum, Gimpo-si
+#   type: 단체전 (group exhibition)
+#   dates: 2020
 
-- name: "ModelHouse: HM05"
-  location: >-
-    LOUNGE 32. Seoul
-  type: 단체전 (group exhibition)
-  dates: 2020
+# - name: "ModelHouse: HM05"
+#   location: >-
+#     LOUNGE 32. Seoul
+#   type: 단체전 (group exhibition)
+#   dates: 2020
 
-- name: "전시후도록 Exhibition \ Publication"
-  location: >-
-    WESS, Seoul
-  type: 단체전 (group exhibition)
-  dates: 2020
+# - name: "전시후도록 Exhibition \ Publication"
+#   location: >-
+#     WESS, Seoul
+#   type: 단체전 (group exhibition)
+#   dates: 2020
 
-- name: "드로잉을 위한 드로잉"
-  location: >-
-    Korea National University of Arts Theory Gallery, Seoul
-  type: 단체전 (group exhibition)
-  dates: 2019
+# - name: "드로잉을 위한 드로잉"
+#   location: >-
+#     Korea National University of Arts Theory Gallery, Seoul
+#   type: 단체전 (group exhibition)
+#   dates: 2019
 
-- name: "SHOWCASE 2019: Playing the future"
-  location: >-
-    성북예술창작터 (Seoungbuk Young Art Space), Seoul
-  type: 단체전 (group exhibition)
-  dates: 2019
+# - name: "SHOWCASE 2019: Playing the future"
+#   location: >-
+#     성북예술창작터 (Seoungbuk Young Art Space), Seoul
+#   type: 단체전 (group exhibition)
+#   dates: 2019
