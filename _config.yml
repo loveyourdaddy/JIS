@@ -18,25 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sihun Cha
-name: Sihun Cha
+title: Inseo Jang
+name: Inseo Jang
 position: Ph.D. student
-email: chacorp@kaist.ac.kr
+email: isjang08@kaist.ac.kr
 description: >-
-  I am a Ph.D. student at [Visual Media Lab](https://vml.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1). 
-  I studied Fine Arts as a Bachelor at [Korea National University of Arts](https://www.karts.ac.kr/en/main.do).
-  
+Great Day! 
+I study and research on Computer Graphics. 
+Currently, I am Ph.D student at VML KAIST in South Korea, advised by Prof. Junyong Noh. My research area is motion retargeting in character animation. Especially, I focus on retargeting interaction motions between multiple characters of various shape that animator can use!
+During my master degree, I was in GML advised by Prof. Hyeong-Seok Ko. I studied cloth simulation and conducted research on improving the simulation speed.  
+I am grateful for the opportunity to learn new things and look forward to experiencing new challenges.
+Research Topic. Character animation, Motion retargeting, Cloth simulation
+ 
 
-  'How to create and manipulate 3D content intuitively?' is my overall question. 
-  My current research interest lies on generating and editing digital 3D avatar.
 
-
-baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
-url: "https://chacorp.github.io/sihuncha/" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
+url: "https://github.com/loveyourdaddy/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username: chacorp
-google_scholar: gwSV7H4AAAAJ
-google_analytics: G-MFWSBLRKG0
+github_username: loveyourdaddy
+# google_scholar: gwSV7H4AAAAJ
+# google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima
