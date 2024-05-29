@@ -1,121 +1,22 @@
-- id: localpatch
-  title: "Deep Learning-Based Facial Retargeting Using Local Patches"
-  venue: Under review
-  description: "Retargeting facial expression from a source human performance video to a target stylized 3D character using local patches."
-  image: localpatch.png
+- id: GAR
+  title: "Geometry-aware motion retargeting for two-character interaction"
+  venue: In submission
+  description: "Retargeting interactive motions between characters with arbitrary mesh topologies."
+  image: localpatch.png # TODO: 
   authors:
-    - Inyup
-    - Yeonsoo
-    - Sihun
-    - Seonghyeon
-    - Sunjin
+    - Inseo
+    - Soojin
+    - Seokhyeon
+    - Chaelin
     - Junyong
-  co: 2
-  etc: "(*equal contribution)"
   
-- id: nerffacespeech
-  title: "NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior"
-  venue: CVPRW 2024
-  description: "One-Shot Audio-driven 3D talking head generation with enhanced 3D consistency using NeRF and generative knowledge from single image input."
-  project_page: "https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/"
-  image: nerffacespeech.png
+- id: PatternMirroring
+  title: "Pattern mirroring method for Fast cloth simulation"
+  venue: KCGS 2018
+  description: "Accelerating Cloth Simulation Speed for Symmetrical Motion."
+  # project_page: "https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/"
+  image: nerffacespeech.png # TODO : figure update 
   authors:
-    - Gihoon
-    - Kwanggyoon
-    - Sihun
-    - Junyong
-    
-- id: lego
-  title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
-  venue: CVPR 2024
-  description: "Creating an animatable stylized 3D face mesh with one example pair."
-  project_page: "https://kwanyun.github.io/lego/"
-  github: "kwanyun/LeGO_code"
-  arxiv: "2403.15227"
-  image: lego.png
-  authors:
-    - Soyeon
-    - Kwan
-    - Kwanggyoon
-    - Sihun
-    - Jungeun
-    - Junyong
-  co: 2
-  etc: "(*equal contribution)"
-    
-- id: Sample-Refine
-  title: "Generating Texture for 3D Human Avatar from a Single Image using Sampling and Refinement Networks"
-  venue: Eurographics 2023
-  journal: Computer Graphics Forum (CGF)
-  description: "Generating 3D human texture from a single image using sampling and refinement process by utilizing geometry information."
-  paper: "https://diglib.eg.org/handle/10.1111/cgf14769"
-  project_page: "https://chacorp.github.io/sample-refine/"
-  github: "chacorp/SampleRefine"
-  arxiv: "2305.00936"
-  image: sample-refine.png
-  authors:
-    - Sihun
-    - Kwanggyoon
-    - Amirsaman
-    - Junyong
-
-- id: Ref2Sketch
-  title: "Reference Based Sketch Extraction via Attention Mechanism"
-  venue: SIGGRAPH Asia 2022
-  journal: ACM Transactions on Graphics (TOG)
-  description: "Extracting a sketch from an image in the style of a given reference sketch while preserving the visual content of the image."
-  paper: "https://dl.acm.org/doi/abs/10.1145/3550454.3555504"
-  github: ref2sketch/ref2sketch
-  image: ref2sketch.jpg
-  authors:
-    - Amirsaman
-    - Chang Wook
-    - Cholmin
-    - Sihun
-    - Junyong
-
-- id: Samp-Ref
-  title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement"
-  venue: SIGGRAPH 2022 Posters
-  description: "A method for generating 3D human texture from a single image based on SMPL model, using sampling and refinement process."
-  paper: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
-  github: "chacorp/SampleRefine"
-  image: samp-ref.jpg
-  authors:
-    - Sihun
-    - Kwanggyoon
-    - Amirsaman
-    - Junyong
-
-- id: Anyway
-  title: "“Anyway,”: Two-player Defense Game via Voice Conversation"
-  venue: CHI Play 2021
-  description: "A two-player conversational defense game that uses voice conversation as an input."
-  paper: "https://dl.acm.org/doi/abs/10.1145/3450337.3483509"
-  image: anyway.png
-  authors:
-    - Minki
-    - YoungJun
-    - Sihun
-  co: 3
-  etc: "(*equal contribution)"
-
-# - id: nerfies
-#   title: "Nerfies: Deformable Neural Radiance Fields"
-#   venue: ICCV, 2021
-#   description: "Learning deformation fields with a NeRF let's you reconstruct non-rigid scenes with high fidelity."
-#   project_page: "https://nerfies.github.io"
-#   github: google/nerfies
-#   arxiv: 2011.12948
-#   image: nerfies_before.jpg
-#   image_mouseover: nerfies_after.mp4
-#   authors:
-#     - keunhong
-#     - utsinh
-#     - barron
-#     - sofien
-#     - dgo
-#     - smseitz
-#     - rmbrualla
-#   awards:
-#     - "Oral Presentation"
+    - Inseo
+    - Sangbin
+    - Hyeongseok
