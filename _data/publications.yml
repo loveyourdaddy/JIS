@@ -3,7 +3,7 @@
   venue: In submission
   description: "Retargeting interactive motions between characters with arbitrary mesh topologies."
   project_page: "https://loveyourdaddy.github.io/geometry_retargeting/"
-  image: localpatch.png # TODO: 
+  image: GeometryAwareRetargeting.png
   authors:
     - Inseo
     - Soojin
@@ -16,7 +16,7 @@
   venue: KCGS 2018
   description: "Accelerating Cloth Simulation Speed for Symmetrical Motion."
   # project_page: "https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/"
-  image: nerffacespeech.png # TODO : figure update 
+  image: PatternMirroring.png
   authors:
     - Inseo
     - Sangbin
