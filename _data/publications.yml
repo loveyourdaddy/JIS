@@ -2,6 +2,7 @@
   title: "Geometry-aware motion retargeting for two-character interaction"
   venue: In submission
   description: "Retargeting interactive motions between characters with arbitrary mesh topologies."
+  project_page: "https://loveyourdaddy.github.io/geometry_retargeting/"
   image: localpatch.png # TODO: 
   authors:
     - Inseo
