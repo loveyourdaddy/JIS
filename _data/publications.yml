@@ -15,7 +15,8 @@
   title: "Geometry-aware motion retargeting for two-character interaction"
   venue: KCGS 2024
   description: "Retargeting interactive motions between characters with arbitrary mesh topologies."
-  project_page: "https://loveyourdaddy.github.io/geometry_retargeting/"
+  project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting.github.io/"
+  # "https://loveyourdaddy.github.io/geometry_retargeting/"
   image: GeometryAwareRetargeting.png
   authors:
     - Inseo
