@@ -12,20 +12,6 @@
     - Chaelin
     - Junyong
 
-- id: GAR_kcgs
-  title: "Geometry-aware motion retargeting for two-character interaction"
-  venue: KCGS 2024
-  description: "Retargeting interactive motions between characters with arbitrary mesh topologies."
-  project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting.github.io/"
-  # "https://loveyourdaddy.github.io/geometry_retargeting/"
-  image: GeometryAwareRetargeting.png
-  authors:
-    - Inseo
-    - Soojin
-    - Seokhyeon
-    - Chaelin
-    - Junyong  
-
 - id: PatternMirroring
   title: "Pattern mirroring method for Fast cloth simulation"
   venue: KCGS 2018
