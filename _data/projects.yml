@@ -1,7 +1,22 @@
+# KAI 
+
+# DT 
+- name: Retargeting Project 
+  support: Dancstruct
+  date: Mar. 2024 ~ Dec. 2024
+  desciption: Retargeting the characters with difference joint structual and axis. (MAYA python)
+
+# SAVVY 
+- name: SAVVY
+  support: SOOP
+  date: Sep. 2024 ~ Dec. 2024
+  desciption: Text to motion and video using reference human image.
+
+# KAIST
 - name: 3D Cinemagraph for AR Contents Creation
   support: IITP
   date: Jun. 2020 ~ Dec. 2022
-  role: Development of Motion Retargeting
+  role: Software Developer
   image: iitp.jpg
   description: "Development of user-friendly content production technology that enables general users to easily transform a single image into immersive AR content where background and characters within the image move and interact with real-world objects."
 
@@ -12,15 +27,12 @@
   image: kocca.jpg # TODO: update figure 
   description: "Development of user-friendly animation creation platform through analysis of user input keywords and images for single creators"
 
-# - name: SAMSUNG AR Project
-#   support: SAMSUN
-#   date: Feb. 2019 ~ Dec. 2019
-#   role: Development Physics
-#   image: kocca.jpg
+- name: SAMSUNG AR Project
+  support: SAMSUNG
+  date: Feb. 2019 ~ Dec. 2019
+  role: Software Developer
+  image: samsung.jpg
   
-
-
-
 # - date: Sep 2021
 #   description: >-
 #     [_HyperNeRF_](https://hypernerf.github.io) has been accepted to SIGGRAPH Asia
