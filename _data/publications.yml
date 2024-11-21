@@ -1,8 +1,10 @@
 - id: GAR
   title: "Geometry-aware motion retargeting for two-character interaction"
   venue: SIGGRAPH Asia 2024
-  description: "Retargeting interactive motions between characters with arbitrary mesh topologies."
+  description: "Retargeting interactive motions between characters."
   project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting.github.io/"
+  paper: "https://dl.acm.org/doi/pdf/10.1145/3687962"
+  video: "https://www.youtube.com/watch?v=Igl9ghJEVG8"
   # "https://loveyourdaddy.github.io/geometry_retargeting/"
   image: GeometryAwareRetargeting.png
   authors:
@@ -15,7 +17,7 @@
 - id: PatternMirroring
   title: "Pattern mirroring method for Fast cloth simulation"
   venue: KCGS 2018
-  description: "Accelerating Cloth Simulation Speed for Symmetrical Motion."
+  description: "Accelerating Cloth Simulation Speed."
   # project_page: "https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/"
   paper: "https://drive.google.com/file/d/11vVcL1xIQH1uR2bKVoa03Memly8Evwqs/view?usp=drive_link"
   image: PatternMirroring.png
