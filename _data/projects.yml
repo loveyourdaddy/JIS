@@ -1,16 +1,15 @@
 # KAI 
-
 # DT 
-- name: Retargeting Project 
-  support: Dancstruct
-  date: Mar. 2024 ~ Dec. 2024
-  desciption: Retargeting the characters with difference joint structual and axis. (MAYA python)
+# - name: Retargeting Project 
+#   support: Dancstruct
+#   date: Mar. 2024 ~ Dec. 2024
+#   desciption: Retargeting the characters with difference joint structual and axis. (MAYA python)
 
-# SAVVY 
-- name: SAVVY
-  support: SOOP
-  date: Sep. 2024 ~ Dec. 2024
-  desciption: Text to motion and video using reference human image.
+# # SAVVY 
+# - name: SAVVY
+#   support: SOOP
+#   date: Sep. 2024 ~ Dec. 2024
+#   desciption: Text to motion and video using reference human image.
 
 # KAIST
 - name: 3D Cinemagraph for AR Contents Creation
@@ -31,7 +30,7 @@
   support: SAMSUNG
   date: Feb. 2019 ~ Dec. 2019
   role: Software Developer
-  image: samsung.jpg
+  image: samsung.png
   
 # - date: Sep 2021
 #   description: >-
