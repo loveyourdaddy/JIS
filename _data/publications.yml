@@ -1,6 +1,6 @@
 - id: GAR
-  title: "Geometry-aware motion retargeting for two-character interaction"
-  venue: SIGGRAPH Asia 2024
+  title: "Geometry-Aware Retargeting for Two-Skinned Characters Interaction"
+  venue: SIGGRAPH Asia 2024, ACM Transactions on Graphics (TOG)
   description: "Retargeting interactive motions between characters."
   project_page: "https://loveyourdaddy.github.io/Geometry_Aware_Retargeting.github.io/"
   paper: "https://dl.acm.org/doi/pdf/10.1145/3687962"
